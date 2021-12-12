@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @1vex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center">📡📝</h3>
+<h3 align="center">vExisko</h3>
+<p align="center">Taki idiota ze mnie i wgl skidzioch.</p>
 
-<!---
-1vex/1vex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+
+
